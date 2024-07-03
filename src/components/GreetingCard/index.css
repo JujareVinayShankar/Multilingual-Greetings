@@ -1,0 +1,24 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+}
+
+.language-types {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 60%;
+}
+
+.language-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  width: 20%;
+}

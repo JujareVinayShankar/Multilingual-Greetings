@@ -1,0 +1,23 @@
+li {
+  list-style-type: none;
+}
+
+.button {
+  border-radius: 20px;
+  padding: 6px;
+  width: 80px;
+  outline: none;
+}
+
+.bg-fill {
+  background-color: #db1c48;
+  color: #ffffff;
+  outline: none;
+  border: 2px solid #db1c48;
+}
+
+.bg-transparent {
+  background-color: transparent;
+  border: 2px solid #db1c48;
+  color: #db1c48;
+}
